@@ -1,4 +1,4 @@
-This repository is used as Global English translations in MIUI India ROMs V5.
+This repository is used as Global English translations in V5 MIUI India ROMs.
 
 ---------------------------------------------------------------------------------------------
 
