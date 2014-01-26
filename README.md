@@ -9,5 +9,5 @@ Permissions beyond the scope of this license may be available at http://www.miui
 ---------------------------------------------------------------------------------------------
 
 Changelog:<br>
-Resized miui_title.png [25/01/2014]
+Resized miui_title.png [25/01/2014]<br>
 Corrected miui_title.png colour [26/01/2014]
