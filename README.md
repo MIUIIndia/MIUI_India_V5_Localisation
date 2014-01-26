@@ -1,9 +1,9 @@
 This repository is used as Global English translations in V5 MIUI India ROMs.
 
 ---------------------------------------------------------------------------------------------
-<p>MIUI India V5 Localisation by MIUI India and MIUI Australia is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+<p>MIUI India V5 Localisation by MIUI India and MIUI Australia is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br><br>
 
-Based on a work at https://github.com/iBotPeaches/MIUIAndroid_XML_v5.
+Based on a work at https://github.com/iBotPeaches/MIUIAndroid_XML_v5.<br><br>
 
 Permissions beyond the scope of this license may be available at http://www.miui-india.in/contact-us/.</p>
 ---------------------------------------------------------------------------------------------
