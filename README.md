@@ -12,4 +12,5 @@ Changelog:<br>
 CodyLogs: Resized miui_title.png [25/01/2014]<br>
 CodyLogs: Corrected miui_title.png colour [26/01/2014]<br>
 CodyLogs: Volume wake and LED enabled for maguro and mako [26/01/2014]<br>
-CodyLogs: Added MIUI United Kingdom graphical translations  [26/01/2014]
+CodyLogs: Added MIUI United Kingdom graphical translations  [26/01/2014]<br>
+CodyLogs: Added Setting.apk logos [27/01/2014]<br>
