@@ -1,4 +1,4 @@
-This repository is used as localisation in V5 MIUI India ROMs.
+This repository includes localisation files used in V5 MIUI India ROMs.
 
 ---------------------------------------------------------------------------------------------
 <p>MIUI India V5 Localisation by MIUI India and MIUI Australia is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br><br>
